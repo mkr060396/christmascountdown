@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: darkred;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Satisfy', cursive;
+}
+#christmas {
+    display: block;
+    font-size: 100px;
+    color: white;
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+}
+
+img {
+    display: block;
+    width:  30%;
+    margin: auto;
+}
